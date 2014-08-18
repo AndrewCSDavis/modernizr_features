@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="modernizr_features" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+	<name>Modernizr Features</name>
+	<description>Detect user Device Capabilities</description>	
+	<types>
+		<type>Other</type>
+	</types>
+	<authors>
+		<author>
+			<name github="trigger121" symphony="touchstone">Andrew Davis</name>
+			<email>tudor50rise@homtail.co.uk</email>
+		</author>
+	</authors>
+	<releases>
+		<release version="1.0" date="2014-08-16" min="1" />		
+	</releases>
+</extension>

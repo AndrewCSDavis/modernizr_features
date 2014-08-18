@@ -1,18 +1,18 @@
-# Useragent Details
+# Modernizr Features
 
 - Version: 1.2
-- Author: Phill Gray
-- Build Date: 2012-06-12
-- Requirements: Symphony 2.2, 2.3
+- Author: Andrew Davis
+- Build Date: 2014-08-18
+- Requirements: Symphony 2.2, 2.3, 2.4
 
 ## Installation
 
-- Upload the 'useragent_details' folder to your Symphony 'extensions' folder.
-- Enable it by selecting "Useragent Details", choose Enable from the with-selected menu, then click Apply.
+- Upload the 'modernizr_features' folder to your Symphony 'extensions' folder.
+- Enable it by selecting "Modernizr Features", choose Enable from the with-selected menu, then click Apply.
 
 ## Usage
 
-Bundles a datasource that outputs the users browser, version, platform, platform version, if it's a mobile device, a robot or using chromeframe and IP address. Easy!
+Bundles a datasource that outputs the users browser, version, platform, platform version, if it's a mobile device, a robot or using chromeframe, detects orientation of device as well as screen size also gives a range of device capabilties provided by Modernizr. Easy!
 
 There is a setting on the preferences page to include geolocationing based on the IP address using Geoplugin. This is disabled by default as some people don't want the page load delay associated with geolocationing. Enabling this adds a location node to the bundled datasource, as well as lat/long and country values into the param pool.
 
